@@ -1,0 +1,31 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+}
+span {
+    text-transform: uppercase;
+}
+hr{
+    color: yellow;
+}
+main>div {
+    text-align: center;
+}
+figcaption {
+    color: gray;
+}
+div>p{
+    text-align: left;
+}
+figure+p{
+    color: red;
+}
+.special{
+    font-weight: bold;
+}
+.special2{
+    font-weight: bold;
+    text-transform: none;
+}
